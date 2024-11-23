@@ -1,5 +1,3 @@
-**This is the supplementary code to test the accuracy of offline node classification**
-
 ### Dataset Preprocess
 Please create the folder ```./data``` and attach the testing datasets under the folder
 
