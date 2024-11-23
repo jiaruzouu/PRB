@@ -1,5 +1,3 @@
-**This is the supplementary code for the offline link prediction on ogbl datasets.**
-
 ### Environment Setup
 ```bash 
 pip install -r requirements.txt
