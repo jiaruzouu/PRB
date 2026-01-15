@@ -114,7 +114,7 @@ if __name__ == '__main__':
 
             sum_regret += regret
             if t<1000:
-                if t%50 == 0:
+                if t%10 == 0:
                     loss_1,loss_2 = ee_net.train(t)
 
             else:
